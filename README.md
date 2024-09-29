@@ -24,9 +24,9 @@ A: I'm hoping to get a rudimentary understanding of programming for games and ma
 A： Worried that I might not be good at programming, resulting in an overall lackluster GPA. Since I'll be able to transfer into the GDIM program after this quater, it's something I'm working on, but I still worry that I'll fail the class.
 
 ## Prior Experience
-N/A
-
 The next questions ask about what (if any) prior experience you have. This class assumes students have no prior knowledge, so don’t worry if you have 0 experience programming or with game development! Just write 0 or N/A under the headers. These questions are JUST for us to get an overall picture of the class's experience level so that we can make sure to be meeting you all where you are.
+
+N/A
 
 ### Development
 
@@ -41,8 +41,8 @@ The next questions ask about what (if any) prior experience you have. This class
 For the next questions, a programming or game development concept is presented:
 
  - If you are NOT familiar with this topic, write N/A.
- N/A
  - If you ARE familiar with this concept, do your best to define it in your own words.
+ N/A
 
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
