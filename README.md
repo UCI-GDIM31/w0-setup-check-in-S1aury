@@ -31,11 +31,11 @@ N/A
 ### Development
 
 1. Programming (any languages/ frameworks)
-
+N/A
 2. Game development (any engine)
-
+N/A
 3. Unity
-
+N/A
 ### Programming & Game Development Concepts
 
 For the next questions, a programming or game development concept is presented:
